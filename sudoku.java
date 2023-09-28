@@ -12,6 +12,7 @@ public class sudoku {
             String row = scanner.nextLine();
             for (int j = 0; j < 9; j++) {
                 board[i][j] = row.charAt(j) - '0';
+                sc.close();
             }
         }
 
