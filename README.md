@@ -1,37 +1,20 @@
 # Java Projects Collection
 
-A set of Java-based projects demonstrating various programming concepts, ranging from basic console applications to structured management systems.
+A collection of Java-based projects demonstrating different programming concepts and application types.  
+Each project is contained in its own folder with the relevant source code, resources, and instructions.
 
 ## Overview
-This repository contains multiple standalone Java projects. Each project is stored in its own folder with source code, resources, and instructions for execution.
+This repository contains both active and legacy projects. Some are console-based, while others include more complex management systems.  
+The projects vary from small utility applications to structured management tools.
 
-## Projects Included
+## Project List
 
-### 1. Calculator
-A functional calculator application supporting:
-- Addition, subtraction, multiplication, and division
-- Error handling for invalid inputs
-- Console-based interface
-
-### 2. Sudoku
-A Sudoku game implementation with:
-- Board generation
-- Move validation
-- Console-based interaction
-
-### 3. Inventory Management
-A simple inventory management system with:
-- Add, update, and remove item functionality
-- Stock level tracking
-- Search capability
-
-### 4. Stadium Management
-An application designed for:
-- Managing stadium seating and event details
-- Tracking ticket sales
-- Generating basic reports
-
-## Technology Stack
-- Language: Java (JDK 8+)
-- Tools: Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans) or command-line setup
-- Build: Standard Java compilation using `javac` or IDE run configurations
+| Project Name              | Description                                                                                
+|---------------------------|----------------------------------------------------------------------------------------------|
+| PasswordManagementSystem  | A basic password manager for securely storing and retrieving credentials.                   | 
+| Audio Player              | A Java-based audio player capable of playing standard audio file formats.                   | 
+| Inventory Management      | A simple system to track, add, update, and manage inventory data.                            | 
+| Stadium Management        | A system to manage stadium seating, events, and ticket tracking.                             | 
+| Task Manager App          | An application for creating, updating, and managing personal or team tasks.                  |
+| Calculator                | A functional calculator with basic arithmetic operations and input error handling.           | 
+| Sudoku                    | A console-based Sudoku game with board generation and move validation.                       | 
